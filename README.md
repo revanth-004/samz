@@ -40,6 +40,9 @@ Install the project dependencies using npm:
 ```
 npm install
 ```
+## 🔗RapidAPI Summarizer Link 
+
+[Article Extractor and Summarizer ](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 
 ## Set Up Environment Variables
 
